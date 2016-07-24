@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleGallery</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="take_video">Take Video</string>
+</resources>
