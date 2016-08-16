@@ -93,7 +93,7 @@ Step 1. main layout
 ```
 
 
-Step 2. Your java bean must like that. You donot need to give permission. Library already provide permission.
+Step 2. Your java must like that. You donot need to give permission. Library already provide permission.
 ```java
 package com.sunil.samplegallery;
 
@@ -219,7 +219,7 @@ LINK:
 
 MyBlog tutorial:
 
-http://sunil-android.blogspot.in/2013/09/slide-menu-navigation-drawer-in-android.html
+http://sunil-android.blogspot.in/
 
 Copyright 2014 Sunil Gupta
 
